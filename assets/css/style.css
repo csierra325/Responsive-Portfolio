@@ -120,11 +120,9 @@ li a:hover {
 
 .img-container {
     float: left;
-    
     padding: 5px;
     text-align: center;
     color: black;
-    
 }
 
 .img-containertwo {
@@ -138,17 +136,6 @@ li a:hover {
     color: black;
     font-weight: bold;
     font-size: 30px;
-    float: left;
-}
-
-.centered {
-    position: absolute;
-    bottom: 15px;
-    left: 35%;
-    transform: translate(-50%, -50%);
-    background-color: lightblue;
-    padding: 0 130px;
-    margin: 20px;
     float: left;
 }
 
@@ -187,23 +174,15 @@ li a:hover {
         text-align: center;
     }
     .nav-Links {
-        width:100%;
+        width: 100%;
         position: static;
         text-align: center;
     }
     h1 {
         float: left;
     }
-    .centered {
-        position: relative;
-        bottom: 15px;
-        left: 35%;
-        transform: translate(-50%, -50%);
-        background-color: lightblue;
-        padding: 0 130px;
-        margin: 20px;
-        float: left;
-    }
+ 
+    
     forms {
         padding: 25px;
         height: 100%;
@@ -223,7 +202,6 @@ li a:hover {
         padding: 25px;
         margin: 25px;
         height: 850px;
-    
     }
     .mouse {
         background-color: #ffffff;
@@ -254,11 +232,10 @@ li a:hover {
     }
     .case {
         background-color: #ffffff;
-        width: 550px;
-        border: hidden;
         padding: 25px;
-        margin: 25px;
-        height: 100%;
+        margin: auto;
+        
+        
     }
 }
 
